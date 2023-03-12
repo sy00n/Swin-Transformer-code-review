@@ -38,6 +38,7 @@ def load_checkpoint(config, model, optimizer, lr_scheduler, loss_scaler, logger)
     return max_accuracy
 
 
+# Pretrained model 불러올 시에는 이미 relative posetion index를 썼기 때문에 여기서는 지워줌
 def load_pretrained(config, model, logger):
     logger.info(f"==============> Loading weight {config.MODEL.PRETRAINED} for fine-tuning......")
     checkpoint = torch.load(config.MODEL.PRETRAINED, map_location='cpu')

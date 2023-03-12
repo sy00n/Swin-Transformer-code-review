@@ -80,7 +80,7 @@ def parse_option():
 
     return args, config
 
-
+#  메인함수
 def main(config):
     dataset_train, dataset_val, data_loader_train, data_loader_val, mixup_fn = build_loader(config)
 

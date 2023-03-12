@@ -16,6 +16,7 @@ except:
     print("To use FusedLAMB or FusedAdam, please install apex.")
 
 
+# sgd, adamw, fused_adam, fused_lamb
 def build_optimizer(config, model, simmim=False, is_pretrain=False):
     """
     Build optimizer, set weight decay of normalization to 0 by default.
