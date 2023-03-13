@@ -1,5 +1,5 @@
 # Swin Transformer Code Review
-해당 repo는 Swin Transformer official implementation code에 간단한 리뷰 및 코드 분석을 수행한 주석 제공 목적으로 작성되었습니다. 
+해당 repo는 Swin Transformer official implementation code에 간단한 리뷰 및 코드 분석을 수행한 주석 제공 목적으로 작성되었습니다.       
 
 
 주 설명은 swin_transformer.py에 기술하였습니다. 
@@ -10,12 +10,12 @@
 official code github 주소는 아래 링크입니다. 
 
 
-https://github.com/microsoft/Swin-Transformer
+https://github.com/microsoft/Swin-Transformer   
 
 
 
 
-Swin Transformer 논문 리뷰를 요약한 슬라이드는 아래 링크에서 다운받아 참고하실 수 있습니다. 
+Swin Transformer 논문 리뷰를 요약한 슬라이드는 아래 링크에서 다운받아 참고하실 수 있습니다.    
 
 
 https://kfai.yonsei.ac.kr/seminar
