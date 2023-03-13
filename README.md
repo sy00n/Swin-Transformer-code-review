@@ -1,3 +1,14 @@
+# Swin Transformer Code Review
+해당 repo는 Swin Transformer official implementation code에 간단한 리뷰 및 코드 분석을 제공합니다.
+주 설명은 swin_transformer.py에 기술하였습니다.
+official code github 주소는 아래 링크입니다. 
+https://github.com/microsoft/Swin-Transformer
+
+
+Swin Transformer 논문 리뷰를 요약한 슬라이드는 아래 링크에서 다운받아 참고하실 수 있습니다. 
+https://kfai.yonsei.ac.kr/seminar
+
+
 # Swin Transformer
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swin-transformer-v2-scaling-up-capacity-and/object-detection-on-coco)](https://paperswithcode.com/sota/object-detection-on-coco?p=swin-transformer-v2-scaling-up-capacity-and)
