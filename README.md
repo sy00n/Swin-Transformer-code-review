@@ -1,5 +1,5 @@
 # Swin Transformer Code Review
-해당 repo는 Swin Transformer official implementation code에 간단한 리뷰 및 코드 분석을 수행한 주석을 제공합니다.
+해당 repo는 Swin Transformer official implementation code에 간단한 리뷰 및 코드 분석을 수행한 주석 제공 목적으로 작성되었습니다. 
 
 
 주 설명은 swin_transformer.py에 기술하였습니다. 
